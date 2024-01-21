@@ -31,14 +31,13 @@
 ```
 HarmonyPractice
 │
-├── Splashscreen                    // 闪屏：启动动画，兼容 Android 5.0(21) ~ Android 12 （31） 所有的 API
+├── Basic       // 这个工程主要用于演示 ArkTS 的语法，会第一时间同步鸿蒙新增的语法约束
 │
-├── DataStoreSimple                 // DataStoreSimple 的示例应用
+├── official    // DataStoreSimple 的示例应用
 │    │
-│    ├── main(master) 分支           // Preferences DataStore 的使用
-│    ├── datastore_proto 分支        // Proto DataStore 的使用
+│    ├──        // 
 │
-├── VersionPlugin                   // 整个仓库的依赖库的版本管理
+├──             
 ```
 
 关于每个项目的文章分析，以及这些技术在项目中如何使用，在后文会详细的介绍，请往后看，如果有帮助，帮我在**右上角 star 一下** 就是对我最大的鼓励！
