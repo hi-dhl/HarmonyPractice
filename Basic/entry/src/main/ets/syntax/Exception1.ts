@@ -1,0 +1,15 @@
+/**
+ * 文件名以 ts 的结尾表示  TypeScript
+ * 文件名以 ets 的结尾表示 ArkTS
+ *
+ * 基于 TypeScript 语法，下面代码只能在 TypeScript 中运行
+ */
+export class Exception {
+  testException() {
+    try {
+      // ...
+    } catch (error: unknown) {
+      // 处理异常
+    }
+  }
+}
