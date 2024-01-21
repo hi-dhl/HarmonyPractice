@@ -10,7 +10,7 @@
  * </pre>
  */
 
-import {Student} from '../model/StudentArkTs'
+import {Student} from '../model/StudentTypeScript'
 
 export const persons: Array<Student> = [
   new Student("DHL"),
