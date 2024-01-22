@@ -33,7 +33,7 @@ HarmonyPractice
 │
 ├── Basic       // 这个工程主要用于演示 ArkTS 的语法，会第一时间同步鸿蒙新增的语法约束
 │
-├── official    // DataStoreSimple 的示例应用
+├── official    // 魔改官方示例，后续会上传
 │    │
 │    ├──        // 
 │
@@ -45,6 +45,15 @@ HarmonyPractice
 ## <p align="center"> 仓库项目介绍 </p>
 
 本仓库致力于建立最全、最新的 ArkTS 语法、 鸿蒙组件的使用，以及鸿蒙实战项目以及的分析文章，后续会慢慢添加更多的内容，逐步完善这个仓库，可以关注了解最新动态。
+
+### <p align="center"> Basic </p>
+
+`Basic` 包含了大量的 ArkTS 语法示例，ArkTS 是在 TypeScript 的基础上扩展的，这个工程也包含了 ArkTS 和 TypeScript 的示例对比，同时会第一时间同步鸿蒙新增的语法约束，
+
+相关文章：
+
+* [鸿蒙：5 分钟秒懂 ArkTs，不能错过的知识点解析](https://mp.weixin.qq.com/s/ss7sUTdkHLDlDegYjfs_Zg)
+* [鸿蒙力作：揭晓 ArkTS，如何重塑语法，打造更健壮和可靠的代码](https://mp.weixin.qq.com/s/HcY12dDT5vjSrSDgJorjrg)
 
 
 
