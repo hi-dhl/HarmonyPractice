@@ -1,4 +1,4 @@
-# <p align="center"> 👋👋👋 Welcom HarmonyPractice </p>
+# <p align="center">HarmonyPractice </p>
 
 
 
