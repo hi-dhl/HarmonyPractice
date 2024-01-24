@@ -17,6 +17,9 @@
 * 如果你对这个项目有什么好的建议，欢迎点击仓库顶部 Discussions 一起讨论，也可以联系我一起交流
 ![](https://img.hi-dhl.com/17058167366591.jpg)
 
+ #### 鸿蒙安装编译常见问题 
+
+* [学习鸿蒙，解决这几个关键问题](https://mp.weixin.qq.com/s/EdITyljNe6M5iDfCMELEmQ)
 
 **联系我**
 
