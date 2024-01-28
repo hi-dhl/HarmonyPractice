@@ -2,7 +2,7 @@ import router from '@ohos.router';
 
 @Entry
 @Component
-struct Index {
+struct Second {
   @State private listItems: Array<string> = [];
 
   parseData() {
